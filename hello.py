@@ -7,5 +7,3 @@ def index(name):
 run(host='localhost', port=8080)
 
 # 現在ここまで、今後機能実装予定
-
-@route()
