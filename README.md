@@ -46,5 +46,9 @@
 GPSデータが組み込まれている画像についてはGoogle Mapsを利用して位置表示ができる機能の実装を考えてます。
 
 ## ローカルでの動作
-
+ 次のコマンドを実行してください。
+ 
+ * $ git clone https://github.com/TateoKohara/python-apps.git
+ * python 3.7.6
+ * bottle 0.12
   
